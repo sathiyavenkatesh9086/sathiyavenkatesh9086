@@ -42,6 +42,9 @@
 [<img align="left" alt="Ubuntu" width="22px" src="https://github.com/sathiyavenkatesh9086/icons/blob/master/ubuntu.png" />][webdevplaylist]
 
 <br />
+<br />
+<br />
+<br />
 
 ![Sathiya's github stats](https://github-readme-stats.vercel.app/api?username=sathiyavenkatesh9086&show_icons=true&theme=radical)
 
