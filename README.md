@@ -43,7 +43,7 @@
 
 <br />
 
-<img align="left" alt="Sathiya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sathiyavenkatesh9086&show_icons=true&hide_border=true" />
+![Sathiya's github stats](https://github-readme-stats.vercel.app/api?username=sathiyavenkatesh9086&show_icons=true&theme=radical)
 
 
 [facebook]: https://www.facebook.com/sathiya.venkatesh/
