@@ -3,7 +3,7 @@
 ### Here are some ideas to get you started:
 
 - 🔭 I’m a Software Engineer at yellow.ai.
-- 🌱 I created multiple chatbots that dramaticallyimproves customer support.
+- 🌱 I created multiple chatbots that dramatically improves customer support.
 - 🥅 2023 Goals: Try more and more projects in full stack development
 - 💬 Ask me about anything 🤣
 - ⚡ Fun fact: I like to play PUBG and love to hear music.
